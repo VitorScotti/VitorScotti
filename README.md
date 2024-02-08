@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá !!
 
-<!--
-**VitorScotti/VitorScotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Vitor Alexandre Scotti, tenho 22 anos. Estou cursando Ciência da Computação
 
-Here are some ideas to get you started:
+Dentre meus conhecimentos são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sem dominância específica em alguma linguagem de programação. Mas já tive contato com algumas como C, Java, PHP, HTML.
+Algumas atividades com MySQL, Python e Programação Mobile
+
+Possuo facilidade em compreensão rápida de novos conceitos.
+
+Maior dificuldade com conceitos muito teóricas.
+
+
